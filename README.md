@@ -1,5 +1,5 @@
 # TwitterClone
-
+Developed Twitter Clone using Erlang and principles of Distributed operating systems.
 ## Execution Steps:
 1. first create an environment to run the server in one terminal using the command:
 erl -sname server
